@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:1:1-22:12
+	package
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:2:3-37
+		INJECTED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:4:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:7:5-20:19
+	android:supportsRtl
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:10:9-40
+activity#com.sample.edgedetection.scan.ScanActivity
+ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:11:9-15:20
+	android:label
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:13:13-41
+	android:launchMode
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:14:13-44
+	android:name
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:12:13-46
+activity#com.sample.edgedetection.crop.CropActivity
+ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:16:9-19:47
+	android:label
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:18:13-41
+	android:launchMode
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:17:13-46
+uses-sdk
+INJECTED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml

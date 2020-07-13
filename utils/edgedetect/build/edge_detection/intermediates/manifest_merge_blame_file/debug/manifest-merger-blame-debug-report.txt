@@ -1,0 +1,42 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sample.edgedetection" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.CAMERA" />
+7-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:4:5-65
+7-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:4:22-62
+8    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+8-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:5:5-81
+8-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:5:22-78
+9
+10    <application
+10-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:7:5-20:19
+11        android:allowBackup="true"
+11-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:8:9-35
+12        android:supportsRtl="true"
+12-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:9:9-35
+13        android:theme="@style/AppTheme" >
+13-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:10:9-40
+14        <activity
+14-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:11:9-15:20
+15            android:name="com.sample.edgedetection.scan.ScanActivity"
+15-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:12:13-46
+16            android:label="@string/scan"
+16-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:13:13-41
+17            android:launchMode="singleTask" >
+17-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:14:13-44
+18        </activity>
+19        <activity
+19-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:16:9-19:47
+20            android:name="com.sample.edgedetection.crop.CropActivity"
+20-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:17:13-46
+21            android:label="@string/crop"
+21-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:18:13-41
+22            android:launchMode="singleTask" />
+22-->C:\Users\Rattlesnakes\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\edge_detection-1.0.5\android\src\main\AndroidManifest.xml:19:13-44
+23    </application>
+24
+25</manifest>
