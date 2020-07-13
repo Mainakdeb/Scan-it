@@ -30,8 +30,8 @@ class _HomePageState extends State<HomePage> {
           CropAspectRatioPreset.ratio16x9
         ],
         androidUiSettings: AndroidUiSettings(
-            toolbarTitle: 'Cropper',
-            toolbarColor: Colors.deepOrange,
+            toolbarTitle: 'Crop Image',
+            toolbarColor: Colors.teal,
             toolbarWidgetColor: Colors.white,
             initAspectRatio: CropAspectRatioPreset.original,
             lockAspectRatio: false),
@@ -56,7 +56,7 @@ class _HomePageState extends State<HomePage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Pick n Crop"),
+        title: Text("Click n Crop"),
       ),
       body: Center(
         child: _image == null
@@ -74,10 +74,10 @@ class _HomePageState extends State<HomePage> {
             label: Text("Camera"),
             onPressed: () => getImageFile(ImageSource.camera),
             heroTag: UniqueKey(),
-            icon: Icon(Icons.camera),
+            icon: Icon(Icons.camera_alt),
           ),
           SizedBox(
-            width: 20,
+            width: 10,
           ),
           FloatingActionButton.extended(
             label: Text("Gallery"),
