@@ -52,31 +52,20 @@ class MyAppState extends State<MyApp> with TickerProviderStateMixin {
       curve: Curves.bounceIn,
       children: [
         SpeedDialChild(
-          child: Icon(Icons.accessibility, color: Colors.white),
+          child: Icon(Icons.camera_alt, color: Colors.white),
           backgroundColor: Colors.deepOrange,
-          onTap: () => print('FIRST CHILD'),
-          label: 'First Child',
+          onTap: () => print('CAMERA'),
+          label: 'camera',
           labelStyle: TextStyle(fontWeight: FontWeight.w500),
           labelBackgroundColor: Colors.deepOrangeAccent,
         ),
         SpeedDialChild(
-          child: Icon(Icons.brush, color: Colors.white),
+          child: Icon(Icons.image, color: Colors.white),
           backgroundColor: Colors.green,
-          onTap: () => print('SECOND CHILD'),
-          label: 'Second Child',
+          onTap: () => print('GALLERY'),
+          label: 'Gallery',
           labelStyle: TextStyle(fontWeight: FontWeight.w500),
           labelBackgroundColor: Colors.green,
-        ),
-        SpeedDialChild(
-          child: Icon(Icons.keyboard_voice, color: Colors.white),
-          backgroundColor: Colors.blue,
-          onTap: () => print('THIRD CHILD'),
-          labelWidget: Container(
-            color: Colors.blue,
-            margin: EdgeInsets.only(right: 10),
-            padding: EdgeInsets.all(6),
-            child: Text('Custom Label Widget'),
-          ),
         ),
       ],
     );
