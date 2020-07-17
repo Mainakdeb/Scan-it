@@ -52,7 +52,8 @@ class _MyAppState extends State<MyApp> {
     return new MaterialApp(
       home: new Scaffold(
         appBar: new AppBar(
-          title: const Text('Plugin example app'),
+          title: const Text('Apply Filters'),
+     
         ),
         body: new Container(
           alignment: Alignment(0.0, 0.0),
