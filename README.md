@@ -1,6 +1,12 @@
 # Scan-it
 <p>A Flutter based Android application to scan documents.</p>
-<img src ='https://github.com/Mainakdeb/Scan-it/blob/master/images/collage_3_compressed.jpg' width = 70%>
+
+### Screenshots :
+<img src ='https://github.com/Mainakdeb/Scan-it/blob/master/images/collage_3_compressed.jpg' width = 60%>
+
+### Basic Outline :
+<img src ='https://github.com/Mainakdeb/Scan-it/blob/master/images/diagram_1.png' width = 50%>
+
 
 ## Plugins Used :rocket: ##
 <ul>
