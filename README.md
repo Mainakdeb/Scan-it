@@ -31,8 +31,12 @@
  <li><a href='https://pub.dev/'>Pub.dev for plugins</a>
  </ul>
 <h3>Images</h3>
+<h4>Scanning the images</h4>
+<img src ='https://user-images.githubusercontent.com/53506835/87844032-91080580-c8d6-11ea-8302-f1c63f8b1650.jpg' width = 50%>
+<h4>Cropping the images</h4>
 <img src = "https://user-images.githubusercontent.com/53506835/87390542-ad4e2e80-c5c6-11ea-8351-068f19cc0659.jpg" width = "50%">
-
+<h4>Adding Filters</h4>
 <img src = "https://user-images.githubusercontent.com/53506835/87390369-59dbe080-c5c6-11ea-968b-e648159051b1.jpg" width = "50%">
 
-![Screenshot_2020-07-18-09-07-20-386_com example edgedetect](https://user-images.githubusercontent.com/53506835/87844032-91080580-c8d6-11ea-8302-f1c63f8b1650.jpg)
+
+
